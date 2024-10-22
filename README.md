@@ -33,9 +33,8 @@ I'm an extremely analytical and results-oriented **Data Scientist** with a solid
 - **Specializations:** Machine Learning, Deep Learning, NLP, Data Visualization, Business Analytics
 
 ### Certifications & Awards
-- **Top 2 in Kaggle Competition** - Skin cancer image analysis using deep learning (AUB, May 2024)
-- **Google Cloud Skills Boost - Generative AI Learning Path** (June 2023)
 - **Top 1 in a Data Science Project** - Income Prediction Project (AUB, Apr 2024)
+- **Top 2 in Kaggle Competition** - Skin cancer image analysis using deep learning (AUB, May 2024)
 ### About Me
 - Fluent in **English, French, and Arabic**; basic knowledge of Italian.
 - Passionate about **exploring new places**, especially mountains and nature.
