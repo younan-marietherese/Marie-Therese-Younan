@@ -52,4 +52,5 @@ I'm a highly analytical and results-oriented **Data Scientist** with a strong fo
 - [LinkedIn](https://www.linkedin.com/in/marie-therese-younan234)
 - [GitHub](https://github.com/younan-marietherese)
 - [Email](marie-therese234@hotmail.com)
+
 Empowering insights through data. *Let’s connect and create meaningful impact together!*
