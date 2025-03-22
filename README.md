@@ -9,7 +9,7 @@ I'm a highly analytical and results-oriented **Data Scientist** with a strong fo
 
 ### Education
 - **Professional Graduate Diploma in AI & Data Science**  
-  American University of Beirut (AUB), Lebanon*  
+  *American University of Beirut (AUB), Lebanon*  
   *Feb 2024 – Expected Feb 2025*
 - **MSc in Applied Statistics with a concentration in Data Science**  
   *Beirut Arab University, Lebanon*  
