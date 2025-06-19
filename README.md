@@ -10,7 +10,7 @@ I'm a results-driven Data Scientist, Machine Learning Engineer, and AI Specialis
 - Co-founding and consulting at DataFly For Statistical and Data Analysis, delivering tailored statistical and data science solutions for over 100 students, researchers, and businesses.
 
 ### Education
-- **Artificial Intelligence Certification – Machine Learning Specialization**
+**Artificial Intelligence Certification – Machine Learning Specialization**
   Zaka Academy, Beirut, Lebanon | May 2025 – Present
 
 **Professional Graduate Diploma in AI & Data Science**
