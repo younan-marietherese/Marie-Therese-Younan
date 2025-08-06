@@ -54,8 +54,12 @@ Tools: Power BI | Tableau | SPSS | Google Analytics
 Domains: Machine Learning | Deep Learning | NLP | Computer Vision | Marketing & Web Analytics
 
 ## Awards
-- Top 1 – Stroke Prediction ML Challenge (AUB, 2025)
-
+- Top 2 - Build your Medbot Fine-tuning an Open-source LLM (Zaka.ai - August 2025)
+- Top 1 - Stroke Risk Prediction (Zaka.ai - July 2025) 
+- Top 3 - Smoker Status Prediction (Zaka.ai - July 2025) 
+- Top 4 - Object Detection with YOLO (Zaka.ai - July 2025) 
+- Top 2 - Insurance Cost Prediction (Zaka.ai - June 2025) 
+- Top 2 - Gaussian Naive Bayes (Zaka.ai - June 2025)
 - Top 2 – Skin Cancer Detection Kaggle Competition (AUB, 2024)
 
 
