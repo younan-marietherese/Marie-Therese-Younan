@@ -1,89 +1,78 @@
-## Hi there, I'm Marie Therese Younan! 
+# Hi there, I'm Marie Therese Younan!
+I'm a Data Scientist, Machine Learning Engineer, and AI Specialist with a multidisciplinary academic background in Applied Mathematics, Statistics, and Artificial Intelligence. I transform complex data into actionable insights through machine learning, deep learning, and natural language processing, with a mission to empower businesses, researchers, and communities through data.
 
-I'm a results-driven Data Scientist, Machine Learning Engineer, and AI Specialist with a strong academic foundation in Statistics, Mathematics, and Artificial Intelligence. I specialize in transforming complex data into meaningful insights using advanced analytics and machine learning. With a passion for AI and community empowerment through data, I thrive on solving real-world problems across industries.
+## What I’m Currently Working On
+- AI Graduate Research at the American University of Beirut, building intelligent NLP and vision-based applications.
 
-### What I’m Currently Working On
-- Developing intelligent AI applications through my graduate studies at the American University of Beirut (AUB).
+- Data Analytics Manager at Daraj Media, where I streamline digital strategy, automate cross-platform KPIs, and elevate content performance through analytics.
 
-- Leading data-driven strategies as the Data Analytics Manager at Daraj Media, where I streamline content performance and cross-platform reporting.
+- Machine Learning Engineer Intern at Zaka.ai, working on structured data and NLP tasks with model tuning, threshold optimization, and transformer experimentation.
 
-- Co-founding and consulting at DataFly For Statistical and Data Analysis, delivering tailored statistical and data science solutions for over 100 students, researchers, and businesses.
+- Co-founder at DataFly For Statistical and Data Analysis, delivering custom data analytics and research consulting for over 100 students, academics, and businesses.
 
-### Education
-**Artificial Intelligence Certification – Machine Learning Specialization**
-  Zaka Academy, Beirut, Lebanon | May 2025 – Present
+## Education
+- AI Certification Program - Machine Learning Specialization – Zaka Academy (2025 – Present)
 
-**Professional Graduate Diploma in AI & Data Science**
-American University of Beirut (AUB), Lebanon | Feb 2024 – Oct 2024
+- Professional Graduate Diploma in AI & Data Science – American University of Beirut (2024)
 
-**MSc in Applied Statistics, concentration in Data Science**
-Beirut Arab University (BAU), Lebanon | Feb 2021 – Dec 2022
+- MSc in Applied Statistics – Beirut Arab University (2022)
 
-**BSc in Applied Mathematics, concentration in Engineering**
-American University of Beirut (AUB), Lebanon | Aug 2016 – Jul 2020
+- BSc in Applied Mathematics – American University of Beirut (2020)
 
-### Experience
-**Data Analytics Manager – Daraj Media**
-Feb 2023 – Present
+## Experience Highlights
+- Zaka.ai – Machine Learning Engineer Intern
+  Built and tuned classification models using Scikit-learn & TensorFlow
+  Applied SMOTE, threshold tuning, and feature importance analysis
+  Experimented with neural and transformer models for tabular and NLP tasks
 
-- Built AI-powered dashboards and automated KPI reporting across digital platforms.
+- Daraj Media – Data Analytics Manager
+  Developed AI-powered dashboards and automated KPI pipelines
+  Led analytics initiatives for partner performance and editorial insights
+  Mentored cross-functional teams in data fluency and reporting
 
-- Mentored team members and improved data fluency in editorial and business teams.
+ - DataFly For Statistical and Data Analysis (Freelance) – Co-founder & Data Scientist
+ Delivered 100+ projects involving statistical modeling and ML in R/Python
+ Helped students and professionals convert data into published insights
 
-- Led analytics initiatives to guide content strategy and partner reporting.
+- Center for Applied Statistics – Data Analyst Intern
+  Improved data workflow accuracy and turnaround for academic clients
 
-**Co-founder & Data Scientist – DataFly for Statistical and Data Analysis**
-Jun 2022 – Present
+ ## Some Projects
+- Arabic Event Management Chatbot	Gradio-based Arabic NLP chatbot that extracts event details and detects sentiment	NLP, SpaCy, NLTK, Python, Gradio
+- Skin Cancer Detection	CNN model ranked Top 2 at AUB in Kaggle competition	TensorFlow, CNN, Image Augmentation
+- Antibiotic Resistance Prediction DNA classification model with 97% accuracy, F1-score: 0.95	Scikit-learn, Bioinformatics
+- Stroke Prediction	Neural network ranked Top 1, optimized with SMOTE & threshold tuning	TensorFlow, SMOTE, NN
+- Engagement Optimization	Increased digital engagement by 35% via predictive modeling & A/B testing	Marketing Analytics, Tableau, Python
 
-- Delivered customized data science support for academic research and business cases.
+## Skills & Tools
+Languages: Python | R | SQL | MATLAB
 
-- Applied R, Python, and SPSS to solve real-world statistical and machine learning problems.
+Libraries: Scikit-learn | TensorFlow | Keras | PyTorch | Pandas | NumPy | SpaCy | NLTK
 
-**Data Analyst Intern – Center for Applied Statistics, Beirut Arab University**
-Jun 2022 – Dec 2022
+Tools: Power BI | Tableau | SPSS | Google Analytics
 
-- Optimized data workflows and created structured weekly reports.
+Domains: Machine Learning | Deep Learning | NLP | Computer Vision | Marketing & Web Analytics
 
-- Enhanced accuracy and turnaround of large-scale academic datasets.
+## Awards
+- Top 1 – Stroke Prediction ML Challenge (AUB, 2025)
 
-### Featured Projects
-**Arabic Event Management Chatbot**
-Built an NLP-powered Arabic chatbot using Gradio UI and sentiment analysis to extract structured event details.
-
-**Customer Engagement Optimization**
-Boosted content performance by 35% through predictive modeling, A/B testing, and marketing analytics.
-
-**Antibiotic Resistance Prediction**
-Developed a DNA-based classification model with 97% accuracy and 0.95 F1-score using Scikit-learn.
-
-**Income Classification Model**
-Built a classification pipeline with feature engineering to predict income brackets using U.S. census data.
-
-**Skin Cancer Detection (Kaggle competition)**
-Ranked Top 2 at AUB with a deep learning model using TensorFlow, fine-tuned with data augmentation.
-### Skills & Technologies
-
-- **Programming Languages:** Python, R, SQL, MATLAB
-  
-- **Tools:** Power BI, Tableau, SPSS, Google Analytics
-
-- **Libraries:** Scikit-learn, TensorFlow, Keras, PyTorch, Pandas, NumPy
-
-- **Domains: Machine Learning, Deep Learning, AI, NLP, Data Visualization, Marketing & Business Analytics**
-  
-### Certifications & Awards
-- **Top 1** in Data Science Project – *Income Prediction* (AUB, Apr 2024)  
-- **Top 2** in Kaggle Competition – *Skin Cancer Image Analysis* (AUB, May 2024)
-### About Me
-- Fluent in **English**, **French**, and **Arabic**; basic knowledge of **Italian**  and **Greek**
-- Nature lover | Mountain explorer | Music enthusiast   
-- Committed to using data for social impact, education, and informed decision-making
+- Top 2 – Skin Cancer Detection Kaggle Competition (AUB, 2024)
 
 
-### Get in Touch
-- [LinkedIn](https://www.linkedin.com/in/marie-therese-younan234)
-- [GitHub](https://github.com/younan-marietherese)
-- [Email](marie-therese234@hotmail.com)
 
-Empowering insights through data. 
-**Let’s connect and create meaningful impact together!**
+## Languages & Interests
+Languages: Arabic (native), English, French (fluent), Italian & Greek (basic)
+
+Personal: Nature lover | Mountain explorer  | Music enthusiast
+
+Values: Data for social impact | Education | Informed decision-making
+
+## Get in Touch
+LinkedIn:
+https://www.linkedin.com/in/marie-therese-younan234
+
+
+
+✉️ marie-therese234@hotmail.com
+
+"Empowering insights through data. Let’s connect and create meaningful impact together!"
