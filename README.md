@@ -34,7 +34,7 @@ I'm a Data Scientist, Machine Learning Engineer, and AI Specialist with a multid
  Delivered 100+ projects involving statistical modeling and ML in R/Python
  Helped students and professionals convert data into published insights
 
-- Center for Applied Statistics – Data Analyst Intern
+- Center for Applied Statistics (Beirut Arab University) – Data Analyst Intern
   Improved data workflow accuracy and turnaround for academic clients
 
  ## Some Projects
