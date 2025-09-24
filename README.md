@@ -1,4 +1,4 @@
-# Hey, I'm Marie Therese Younan! 👋 
+# Hey, I'm Marie Therese ! 
 
 ## 🤖 **AI Engineer & Data Scientist**
 
