@@ -75,7 +75,6 @@ Domains: Machine Learning | Deep Learning | NLP | Computer Vision | Marketing & 
 ## Languages & Interests
 Languages: Arabic (native), English, French (fluent), Italian & Greek (basic)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=younan-marietherese&layout=compact&theme=blueberry)
 
 Personal: Nature lover | Mountain explorer  | Music enthusiast
 
