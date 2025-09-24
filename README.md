@@ -1,5 +1,11 @@
-# Hi there, I'm Marie Therese Younan!
-An AI Engineer & Data Scientist passionate about transforming data into intelligent AI solutions. With a CGPA of 4.0 from the American University of Beirut (AUB), I bring both academic excellence and practical expertise in machine learning, deep learning, and natural language processing. Beyond my work in the data field, I founded a Data/AI consultancy that I'm dedicated to growing into a leading hub for analytics and AI solutions, a reflection of my commitment, leadership, and vision. My mission is to bridge the gap between raw information and intelligent systems, creating solutions that empower innovation and growth. Let’s connect to explore how we can build meaningful projects and shape the future with AI.
+# Hi there, I'm Marie Therese Younan! 👋
+
+**AI Engineer & Data Scientist**
+
+My mission: Bridging the gap between raw information and intelligent systems, creating solutions that empower innovation and growth.
+
+---
+
 
 ## What I’m Currently Working On
 - AI Graduate Research at the American University of Beirut, building intelligent NLP and vision-based applications.
@@ -38,11 +44,11 @@ An AI Engineer & Data Scientist passionate about transforming data into intellig
   Improved data workflow accuracy and turnaround for academic clients
 
  ## Some Projects
-- Arabic Event Management Chatbot	Gradio-based Arabic NLP chatbot that extracts event details and detects sentiment	NLP, SpaCy, NLTK, Python, Gradio
-- Skin Cancer Detection	CNN model ranked Top 2 at AUB in Kaggle competition	TensorFlow, CNN, Image Augmentation
-- Antibiotic Resistance Prediction DNA classification model with 97% accuracy, F1-score: 0.95	Scikit-learn, Bioinformatics
-- Stroke Prediction	Neural network ranked Top 1, optimized with SMOTE & threshold tuning	TensorFlow, SMOTE, NN
-- Engagement Optimization	Increased digital engagement by 35% via predictive modeling & A/B testing	Marketing Analytics, Tableau, Python
+- MedBot—AI Medical Q&A Assistant (Top Placement): Fine-tuned GPT-NeoX 20B for medical Q&A, then deployed a lightweight TinyLLaMA model using Flask, Docker, and Hugging Face Spaces. Secured a top score of 90 in the challenge. 
+- Intelligent Claim Approval Engine: Built and deployed an AI-powered API to predict whether insurance claims should be approved or rejected, using Flask, Docker, and Hugging Face Spaces. 
+- Arabic Chatbot (NLP, Sentiment & Events): Developed a Gradio-based chatbot for Arabic text, extracting events and analyzing sentiment. 
+- Skin Cancer Detection (CNN, Kaggle Top 2): Designed a CNN with tuning and augmentation, achieving a top 2 leaderboard score. 
+- Stroke Prediction (Neural Network, TensorFlow): Optimized recall with SMOTE and threshold tuning, ranked top 1 in prediction challenge. 
 
 ## Skills & Tools
 Languages: Python | R | SQL | MATLAB
@@ -54,7 +60,7 @@ Tools: Power BI | Tableau | SPSS | Google Analytics
 Domains: Machine Learning | Deep Learning | NLP | Computer Vision | Marketing & Web Analytics
 
 ## Awards
-- Top 2 - Build your Medbot Fine-tuning an Open-source LLM (Zaka.ai - August 2025)
+- Top 2 - Medbot - Fine-tuning an Open-source LLM (Zaka.ai - August 2025)
 - Top 1 - Stroke Risk Prediction (Zaka.ai - July 2025) 
 - Top 3 - Smoker Status Prediction (Zaka.ai - July 2025) 
 - Top 4 - Object Detection with YOLO (Zaka.ai - July 2025) 
@@ -66,6 +72,8 @@ Domains: Machine Learning | Deep Learning | NLP | Computer Vision | Marketing & 
 
 ## Languages & Interests
 Languages: Arabic (native), English, French (fluent), Italian & Greek (basic)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=younan-marietherese&layout=compact&theme=blueberry)
 
 Personal: Nature lover | Mountain explorer  | Music enthusiast
 
