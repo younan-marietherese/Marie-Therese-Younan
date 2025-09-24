@@ -1,8 +1,6 @@
-# Hi there, I'm Marie Therese Younan! 👋
+# Hi there, I'm Marie Therese Younan! 👋 | # **AI Engineer & Data Scientist**
 
-**AI Engineer & Data Scientist**
-
-My mission: Bridging the gap between raw information and intelligent systems, creating solutions that empower innovation and growth.
+# My mission: Bridging the gap between raw information and intelligent systems, creating solutions that empower innovation and growth.
 
 ---
 
