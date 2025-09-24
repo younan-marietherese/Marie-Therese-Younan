@@ -1,6 +1,6 @@
-# Hi there, I'm Marie Therese Younan! 👋 
+# Hey, I'm Marie Therese Younan! 👋 
 
-## **AI Engineer & Data Scientist**
+## 🤖 **AI Engineer & Data Scientist**
 
 # My mission: 
 
