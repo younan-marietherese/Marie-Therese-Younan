@@ -47,7 +47,7 @@ Bridging the gap between raw information and intelligent systems, creating solut
  - DataFly For Statistical and Data Analysis – Co-founder & Data Scientist
 (Jun 2022 - Present)
 
- Delivered 100+ projects involving statistical modeling and ML in R/Python
+  Delivered 100+ projects involving statistical modeling and ML in R/Python
  Helped students and professionals convert data into published insights
 
 - Center for Applied Statistics (Beirut Arab University) – Data Analyst Intern
