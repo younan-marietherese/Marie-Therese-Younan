@@ -28,26 +28,31 @@ Bridging the gap between raw information and intelligent systems, creating solut
 
 ## Experience Highlights
 - Limitless Technologies (contract) - AI Engineer (Dec 2025 - Jan 2026)
+  
   End-to-end AI development and deployment, designing and integrating AI/ML solutions to automate business workflows.
   Built computer vision, NLP, and rule-based systems for insurance and medical use cases, deployed multilingual conversational AI with sentiment-aware escalation, and supported AI-driven analytics, monitoring, and continuous model optimization.
   
-- Zaka.ai – Machine Learning Engineer Intern (May 2025 - Nov 2025) 
+- Zaka.ai – Machine Learning Engineer Intern (May 2025 - Nov 2025)
+  
   Built and tuned classification models using Scikit-learn & TensorFlow
   Applied SMOTE, threshold tuning, and feature importance analysis
   Experimented with neural and transformer models for tabular and NLP tasks
 
-- Daraj Media – Data Analytics Manager (Feb 2023 - Present) 
+- Daraj Media – Data Analytics Manager (Feb 2023 - Present)
+  
   Developed AI-powered dashboards and automated KPI pipelines
   Led analytics initiatives for partner performance and editorial insights
   Mentored cross-functional teams in data fluency and reporting
 
  - DataFly For Statistical and Data Analysis – Co-founder & Data Scientist
-(Jun 2022 - Present) 
+(Jun 2022 - Present)
+
  Delivered 100+ projects involving statistical modeling and ML in R/Python
  Helped students and professionals convert data into published insights
 
 - Center for Applied Statistics (Beirut Arab University) – Data Analyst Intern
-  (Jun 2022 - Dec 2022) 
+(Jun 2022 - Dec 2022)
+
   Improved data workflow accuracy and turnaround for academic clients
 
  ## Some Projects
